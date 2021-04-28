@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bacf9d7101fe83d41bddefea6fc644f9, type: 3}
+  m_Name: BasicWand
+  m_EditorClassIdentifier: 
+  currentWeaponSpr: {fileID: -5713824495353713455, guid: ad0885cecd0e1d94a865f45ee4e63e21, type: 3}
+  projectilePrefab: {fileID: 5955951109170885951, guid: 9d5d7bcf9ccf5b743a6302a7fc701d38, type: 3}
+  fireRate: 2
+  damage: 20
